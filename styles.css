@@ -1,0 +1,19 @@
+.greenItems{
+    color: green;
+    font-size: 1em;
+}
+.redItems{
+    color: red;
+    font-size: 1em;
+}
+.purpleItems{
+    color: purple;
+    font-size: 1em;
+}
+.greyItems{
+    color: grey;
+    font-size: 1em;
+}
+p {
+    margin: 0px;
+  }
